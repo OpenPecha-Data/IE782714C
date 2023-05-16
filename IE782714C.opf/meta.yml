@@ -1,0 +1,18 @@
+id: IE782714C
+default_language: bo
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:31:31.967528
+last_modified: 2023-01-04 11:31:31.967541
+source_metadata:
+  collections:
+  - Chögyal Pakpa Lodrö Gyaltsen
+  - Works of Tibetan Masters
+bases:
+  A6B3:
+    title: Töpa Gyatsoma Offering Prayer
+    base_file: A6B3.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
